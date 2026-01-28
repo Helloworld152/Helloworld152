@@ -13,6 +13,7 @@
 ![Docker](https://img.shields.io/badge/Docker-Infrastructure-2496ED?style=flat-square&logo=docker)
 
 #### 🔭 Pinned Projects (Recent Works)
+| **[hft_eb](https://github.com/Helloworld152/hft_eb)** | ![C++](https://img.shields.io/badge/C++-20-blue?logo=c%2B%2B) <br> ![Arch](https://img.shields.io/badge/Arch-Plugin-purple) | **⚡ Event-Driven Engine** <br> <b>Micro-kernel Architecture:</b> 基于无锁事件总线 (Disruptor pattern) 的高频交易核心。支持策略/网关以 **.so 插件形式热加载**，同时保持 **亚微秒级 (Sub-us)** 的零拷贝消息分发。 |
 
 #### 📊 GitHub Stats
 <p align="left">
