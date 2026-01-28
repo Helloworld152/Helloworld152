@@ -16,7 +16,7 @@
 
 #### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Helloworld152&show_icons=true&theme=minimal&hide_border=true&cache_bust=1" alt="stats" width="48%" />
+  <img src="https://metrics.lecoq.io/Helloworld152?template=classic&base.header=0&base.activity=1&base.community=1&config.timezone=Asia%2FShanghai" alt="Metrics" width="100%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helloworld152&layout=compact&theme=minimal&hide_border=true&langs_count=6" alt="languages" width="48%" />
 </p>
 
