@@ -1,28 +1,74 @@
-### Hi there, I focus on Low-Latency Systems & Quantitative Dev 👋
+# Hi, I'm Helloworld152 👋
 
-我是 **[你的名字]**，一名专注于 **C++ / Rust** 高性能计算与系统架构的开发者。
-目前致力于探索 **HFT 基础设施**、**无锁编程** 与 **Linux 内核调优**。
+**Low-Latency C++ · Quant Infrastructure · AI Systems**
+
+🎓 Information Security @ Shanghai Jiao Tong University  
+💻 Quant Infrastructure / Low-Latency C++ Developer
+
+专注于高性能交易系统、低延迟基础设施与 AI Systems Engineering。
 
 ---
 
-#### 🛠️ Tech Stack & Arsenal
-![C++](https://img.shields.io/badge/C++-20-00599C?style=flat-square&logo=c%2B%2B)
-![Rust](https://img.shields.io/badge/Rust-1.75+-000000?style=flat-square&logo=rust)
-![Linux](https://img.shields.io/badge/Linux-Kernel-FCC624?style=flat-square&logo=linux)
-![Python](https://img.shields.io/badge/Python-Quant-3776AB?style=flat-square&logo=python)
+## 🚀 Featured Work
+
+### ⚡ [hft_eb](https://github.com/Helloworld152/hft_eb)
+
+Linux-first event-driven HFT framework written in **C++17**.
+
+围绕同步事件总线、动态 `.so` 模块和共享核心状态构建，覆盖 Replay、Strategy、Factor DAG、Portfolio、Risk、Trade 与 Market Data 等交易系统核心链路。
+
+`C++17` · `Linux` · `Event Driven` · `Plugin Architecture` · `Factor DAG` · `Market Data` · `Risk`
+
+### 📈 Quant Infrastructure
+
+围绕高频交易基础设施持续构建的一系列项目：
+
+- [hft_factor](https://github.com/Helloworld152/hft_factor) — 高频因子计算
+- [hft_md_forwarder](https://github.com/Helloworld152/hft_md_forwarder) — 行情转发基础设施
+- [hft_ml](https://github.com/Helloworld152/hft_ml) — Machine Learning for HFT
+- [PyHFT](https://github.com/Helloworld152/PyHFT) — Python HFT Research
+- [quant_infra_tools](https://github.com/Helloworld152/quant_infra_tools) — Quant Infra 工具集
+- [Clarabel.cpp](https://github.com/Helloworld152/Clarabel.cpp) — C++ 凸优化实验
+
+### 🎮 [AI Character Platform](https://github.com/Helloworld152/AI-Character-Platform) · Side Project
+
+面向动漫 / Galgame 风格角色的本地 AI Character 平台，支持多角色对话、长期记忆、角色内容导入、Galgame 模式以及桌面端运行。
+
+`Python` · `React` · `Vite` · `Electron` · `LLM` · `Agent` · `Local First`
+
+---
+
+## ⚡ Engineering Interests
+
+**Low-Latency Systems**  
+`C++` · `Linux` · `Lock-Free Programming` · `Shared Memory` · `Kernel Bypass` · `Market Data`
+
+**Quant Infrastructure**  
+`HFT Engine` · `Factor Engine` · `Risk Model` · `Portfolio Optimization`
+
+**AI Infrastructure**  
+`LLM Inference` · `vLLM` · `CUDA` · `AI Systems` · `Agent Infrastructure`
+
+---
+
+## 🛠 Tech Stack
+
+![C++](https://img.shields.io/badge/C++-17%2F20-00599C?style=flat-square&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust)
+![Linux](https://img.shields.io/badge/Linux-Systems-FCC624?style=flat-square&logo=linux)
+![CMake](https://img.shields.io/badge/CMake-Build-064F8C?style=flat-square&logo=cmake)
 ![Docker](https://img.shields.io/badge/Docker-Infrastructure-2496ED?style=flat-square&logo=docker)
 
-#### 🔭 Pinned Projects (Recent Works)
-| **[hft_eb](https://github.com/Helloworld152/hft_eb)** | **⚡ Event-Driven Engine** <br> <b>Micro-kernel Architecture:</b> 基于无锁事件总线 (Disruptor pattern) 的高频交易核心。支持策略/网关以 **.so 插件形式热加载**，同时保持 **亚微秒级 (Sub-us)** 的零拷贝消息分发。 |
+---
 
-#### 📊 GitHub Stats
+## 📊 GitHub
+
 <p align="left">
-  <img src="https://metrics.lecoq.io/Helloworld152?template=classic&base.header=0&base.activity=1&base.community=1&config.timezone=Asia%2FShanghai" alt="Metrics" width="100%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helloworld152&layout=compact&theme=minimal&hide_border=true&langs_count=6" alt="languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Helloworld152&show_icons=true&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helloworld152&layout=compact&hide_border=true&langs_count=8" width="49%" />
 </p>
 
 ---
 
-#### 💬 Contact
-* **Blog**: [链接到你的技术博客] (比如 "深入理解 memory_order_acquire")
-* **Email**: your.email@example.com
+> Building systems where **latency, throughput and architecture actually matter.**
